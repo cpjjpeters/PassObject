@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassObject", "PassObject\PassObject.csproj", "{1E659FEF-9D5D-45A8-936A-0DB161F78BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferencingThisExplicitly", "ReferencingThisExplicitly\ReferencingThisExplicitly.csproj", "{1E3807D3-BCDB-4F53-904A-BABB93DEAE1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1E659FEF-9D5D-45A8-936A-0DB161F78BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E659FEF-9D5D-45A8-936A-0DB161F78BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E659FEF-9D5D-45A8-936A-0DB161F78BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3807D3-BCDB-4F53-904A-BABB93DEAE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3807D3-BCDB-4F53-904A-BABB93DEAE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3807D3-BCDB-4F53-904A-BABB93DEAE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3807D3-BCDB-4F53-904A-BABB93DEAE1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
